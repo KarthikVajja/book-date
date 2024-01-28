@@ -1,6 +1,6 @@
 {
   "homepage": "http://KarthikVajja.github.io/book-date",
-  "name": "sample-app",
+  "name": "book-date",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

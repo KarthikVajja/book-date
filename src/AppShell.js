@@ -33,14 +33,22 @@ export const AppShell = () => {
                 <div>
                     <center>
                         <h1> : |</h1>
+<<<<<<< Updated upstream
                         <AnimatedGIF src='/GIFs/cat_sad.gif' alt='Animated GIF' />
+=======
+                        <AnimatedGIF src='cat_sad.gif' alt='Animated GIF' />
+>>>>>>> Stashed changes
                     </center>
                 </div>:
                 yes ? 
                 <div>
                     <center>
                         <h1> When are you free? XD </h1>
+<<<<<<< Updated upstream
                         <AnimatedGIF src='/GIFs/cat_dance.gif' alt='Animated GIF'/>
+=======
+                        <AnimatedGIF src='cat_dance.gif' alt='Animated GIF'/>
+>>>>>>> Stashed changes
                     </center>
                     <div style={{ marginTop: '1em', display: 'flex', justifyContent: 'center' }}>
                     <button onClick={handleDate} style={{ backgroundColor: 'red', color: 'white', padding: '1em', borderRadius: '5px', border: 'none', cursor: 'pointer' }}>Book a date</button>
@@ -50,7 +58,11 @@ export const AppShell = () => {
                 <div>
                     <center>
                         <h1> Are you sure? :{'('} </h1>
+<<<<<<< Updated upstream
                         <AnimatedGIF src='/GIFs/cat_sad.gif' alt='Animated GIF'/>
+=======
+                        <AnimatedGIF src='cat_sad.gif' alt='Animated GIF'/>
+>>>>>>> Stashed changes
                     </center>
                     <div style={{ marginTop: '1em', display: 'flex', justifyContent: 'center' }}>
                     <button onClick={handleNo1} style={{ marginRight: '20vh', backgroundColor: 'red', color: 'white', padding: '1em', borderRadius: '5px', border: 'none', cursor: 'pointer' }}>No</button>
